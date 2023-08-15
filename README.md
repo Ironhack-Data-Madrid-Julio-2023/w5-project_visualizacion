@@ -17,5 +17,22 @@ To achieve this, two new categories were added to the dataset, obtained from the
 
 The Tableau visualizations consist of several dashboards, organized into a cohesive story. The project findings reveal significant insights regarding the most visited countries, their characteristics, and potential correlations among the analyzed variables. Some of them will be detailed below:
 
+- In this page we can visualize the most visited countries, regions and the leading nations amongst these. Clearly, the Europe and Eurasia region dominates the global tourism industry with around 
+
+<img width="1430" alt="Screenshot 2023-08-15 at 15 36 06" src="https://github.com/rodrigogtz99/w5-project_visualizacion/assets/139127453/3d224225-1203-4aa7-965a-ad10f71a5ba0">
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
 
 For the detailed data visualizations and findings, please refer to the public link provided in the "visualization link.txt" file.
