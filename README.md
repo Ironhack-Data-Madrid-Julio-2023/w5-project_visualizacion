@@ -48,6 +48,11 @@ The Tableau visualizations consist of several dashboards, organized into a cohes
 <img width="1074" alt="Screenshot 2023-08-15 at 20 28 21" src="https://github.com/rodrigogtz99/w5-project_visualizacion/assets/139127453/62ff8b36-7236-4b6a-a062-fd1d71479619">
 
 
+
+<img width="1091" alt="Screenshot 2023-08-15 at 20 48 24" src="https://github.com/rodrigogtz99/w5-project_visualizacion/assets/139127453/6d3ab9b1-46e0-4ad2-98b7-b31ccf0f1ffb">
+
+
+
 - Lastly, it appears that affordability is less influential that what could have been expected. In fact, most of the most visited countries are considered expensive when compared to the lower end of the list. Also, safety, another commonly perceived travel consideration seems not to play a key role in the number of arrivals. It does so in a minnimal extent, leaving out very conflictive nations from the list. However, countries like Turkey, France, Mexico and the United States are at the top of the list with considerable levels of unsafety. 
 
 
