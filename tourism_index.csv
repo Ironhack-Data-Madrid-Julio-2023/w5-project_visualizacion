@@ -1,0 +1,49 @@
+country;arrivals;region;sub_region;income_group;unesco_sites;hygiene_score;affordability_score;natural_resources_score;infraestructure_score;ict_score;sustainability_score;safety_score;gov_support;intl_openness
+france;89400000;europe and eurasia;western europe;high-income economies;49.0;6.2;4.0;5.4;5.4;5.9;4.7;64.0;3.9;5.7
+spain;83700000;europe and eurasia;southern europe;high-income economies;49.0;5.8;4.4;5.1;5.5;5.9;4.3;83.0;4.6;5.8
+united states;79300000;the americas;north and central america;high-income economies;24.0;5.3;3.6;6.2;5.4;6.1;4.1;68.0;4.3;5.1
+china;65700000;asia-pacific;eastern asia-pacific;upper-middle-income economies;56.0;5.1;5.4;6.2;4.4;5.8;3.8;66.0;3.8;3.9
+italy;64500000;europe and eurasia;southern europe;high-income economies;58.0;6.0;4.0;4.8;5.1;5.5;4.3;77.0;4.2;5.5
+turkey;51200000;europe and eurasia;southern europe;upper-middle-income economies;19.0;4.8;6.0;2.8;4.4;5.2;3.6;45.0;4.4;3.4
+mexico;45000000;the americas;north and central america;upper-middle-income economies;35.0;4.8;5.1;6.3;3.8;5.0;3.6;65.0;3.9;4.1
+thailand;39800000;asia-pacific;south-east asia;upper-middle-income economies;6.0;4.3;5.6;4.9;4.4;5.4;3.6;48.0;3.7;3.9
+germany;39600000;europe and eurasia;western europe;high-income economies;51.0;6.5;4.1;3.4;5.1;5.7;4.7;85.0;4.2;5.9
+united kingdom;39400000;europe and eurasia;western europe;high-income economies;33.0;5.9;2.8;3.6;5.2;5.9;4.9;77.0;3.9;5.7
+japan;32300000;asia-pacific;eastern asia-pacific;high-income economies;25.0;6.1;4.2;4.9;5.5;5.8;4.3;83.0;4.3;4.7
+austria;31900000;europe and eurasia;western europe;high-income economies;12.0;6.8;4.0;2.9;5.3;5.8;5.1;92.0;4.3;5.7
+greece;31300000;europe and eurasia;southern europe;high-income economies;18.0;6.1;3.8;3.0;4.7;5.6;4.4;73.0;5.2;5.3
+malaysia;26100000;asia-pacific;south-east asia;upper-middle-income economies;4.0;4.5;6.5;3.9;4.1;5.5;3.7;69.0;3.9;4.0
+portugal;24600000;europe and eurasia;southern europe;high-income economies;17.0;6.0;4.2;3.5;5.1;5.7;4.2;57.0;4.2;5.3
+hong kong;23800000;asia-pacific;eastern asia-pacific;high-income economies;;5.6;3.6;1.2;5.2;6.1;4.6;70.0;;
+poland;22100000;europe and eurasia;balkans and eastern europe;high-income economies;17.0;5.5;5.5;2.8;4.0;5.7;4.1;84.0;3.9;5.2
+canada;22100000;the americas;north and central america;high-income economies;20.0;5.2;4.3;5.7;4.7;5.9;4.4;88.0;3.9;4.6
+netherlands;20100000;europe and eurasia;western europe;high-income economies;12.0;5.9;3.9;2.6;5.1;6.3;4.8;75.0;4.2;5.9
+vietnam;18000000;asia-pacific;south-east asia;lower-middle income economies;8.0;4.4;6.0;3.8;3.6;5.1;3.7;73.0;3.7;3.5
+india;17900000;asia-pacific;south asia;lower-middle income economies;40.0;3.5;5.8;5.7;3.7;4.0;3.3;47.0;3.9;3.7
+south korea;17500000;asia-pacific;eastern asia-pacific;high-income economies;15.0;6.1;4.8;2.3;5.0;6.2;4.0;82.0;;
+croatia;17400000;europe and eurasia;southern europe;high-income economies;10.0;5.8;4.3;3.6;4.5;5.5;4.5;83.0;4.3;4.7
+hungary;16900000;europe and eurasia;balkans and eastern europe;high-income economies;8.0;6.1;5.1;2.0;4.2;5.4;4.5;83.0;4.6;5.3
+united arab emirates;16700000;middle east and north africa;middle east;high-income economies;1.0;4.9;5.1;1.8;4.8;6.1;4.0;79.0;3.8;4.8
+indonesia;15500000;asia-pacific;south-east asia;lower-middle income economies;9.0;3.9;6.0;5.5;3.7;4.9;3.9;58.0;5.3;3.9
+singapore;15100000;asia-pacific;south-east asia;high-income economies;1.0;5.3;4.9;1.6;5.3;6.0;4.0;90.0;5.6;5.8
+czech republic;14300000;europe and eurasia;western europe;high-income economies;16.0;6.4;5.2;2.0;4.5;5.6;4.5;88.0;4.2;5.5
+saudi arabia;13600000;middle east and north africa;middle east;high-income economies;6.0;5.0;5.1;2.6;4.1;5.9;3.5;46.0;5.1;2.5
+denmark;13300000;europe and eurasia;northern europe;high-income economies;10.0;5.9;3.8;2.7;4.9;6.2;5.1;94.0;3.9;5.6
+morocco;12900000;middle east and north africa;north africa;lower-middle income economies;9.0;3.7;5.3;2.3;3.3;4.7;3.8;54.0;4.8;3.2
+taiwan;11900000;asia-pacific;eastern asia-pacific;high-income economies;;;;;;;;54.0;;
+switzerland;11800000;europe and eurasia;western europe;high-income economies;13.0;6.3;2.8;3.0;5.6;6.2;5.2;89.0;4.4;5.4
+egypt;11300000;middle east and north africa;north africa;lower-middle income economies;7.0;4.0;6.2;3.1;3.6;4.9;4.2;38.0;5.6;2.6
+ireland;10900000;europe and eurasia;western europe;high-income economies;2.0;5.4;3.7;2.0;4.4;5.5;4.5;83.0;3.5;5.2
+south africa;10200000;sub-saharan africa;southern africa;upper-middle-income economies;10.0;3.5;5.5;4.9;3.4;5.1;3.4;48.0;4.3;2.6
+australia;9500000;asia-pacific;eastern asia-pacific;high-income economies;20.0;5.9;3.6;6.4;4.8;5.9;4.0;86.0;4.2;5.2
+tunisia;9400000;middle east and north africa;north africa;lower-middle income economies;8.0;4.4;6.0;2.0;2.9;4.3;3.8;53.0;4.9;2.3
+belgium;9300000;europe and eurasia;western europe;high-income economies;15.0;6.4;4.1;1.9;4.5;5.9;4.4;70.0;3.6;5.8
+bulgaria;9300000;europe and eurasia;balkans and eastern europe;upper-middle-income economies;10.0;6.0;5.7;2.8;4.0;5.4;4.6;80.0;4.2;4.9
+dominican republic;8470000;the americas;north and central america;upper-middle-income economies;1.0;4.1;4.5;2.2;3.6;5.0;4.2;54.0;5.1;3.9
+philippines;8300000;asia-pacific;south-east asia;lower-middle income economies;6.0;3.5;5.8;3.9;3.2;4.4;3.7;47.0;3.9;3.5
+argentina;7400000;the americas;south america;upper-middle-income economies;11.0;5.7;5.8;4.5;3.3;5.1;3.8;70.0;4.4;2.6
+sweden;7400000;europe and eurasia;northern europe;high-income economies;15.0;5.7;3.8;2.8;4.2;6.1;5.4;83.0;3.8;5.6
+iran;7300000;middle east and north africa;middle east;lower-middle-income economies;26.0;;;;;;;35.0;;
+kyrgyzstan;6900000;europe and eurasia;central asia;lower-middle-income economies;3.0;;;;;;;38.0;;
+uzbekistan;6700000;europe and eurasia;central asia;lower-middle-income economies;5.0;;;;;;;40.0;;
+cambodia;6600000;asia-pacific;south-east asia;lower-middle-income economies;3.0;3.1;5.9;2.5;2.8;4.5;3.9;68.0;4.9;4.2
