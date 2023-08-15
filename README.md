@@ -42,7 +42,7 @@ The Tableau visualizations consist of several dashboards, organized into a cohes
 <img width="1053" alt="Screenshot 2023-08-15 at 20 16 14" src="https://github.com/rodrigogtz99/w5-project_visualizacion/assets/139127453/ca28e40f-4362-4223-a4a3-4c0e049a2b10">
 
 
-- In the following two pages, the previously mentioned correlations can be seen more clearly. Ordered in descending order by the most influential factors mentioned above, a pattern can be seen. The countries in the highest rankings of the number of cultural sites, the amount of natural resources, tourism infraestructure and international openness tend to be highly positined in the number of received  tourisits (as is portrayed by the blue color scale).
+- In the following two pages, the previously mentioned correlations can be seen more clearly. Ordered in descending order by the most influential factors mentioned above, a pattern can be seen. The countries in the highest rankings of the number of cultural sites, the amount of natural resources, tourism infraestructure and international openness tend to be highly positined in the amount of tourism received.
   
 
 <img width="1074" alt="Screenshot 2023-08-15 at 20 28 21" src="https://github.com/rodrigogtz99/w5-project_visualizacion/assets/139127453/62ff8b36-7236-4b6a-a062-fd1d71479619">
