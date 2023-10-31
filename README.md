@@ -64,4 +64,6 @@ The Tableau visualizations consist of several dashboards, organized into a cohes
 
 With a database which comprises almost 90% of global tourism, it can be inferred that a considerable amount of economic well-being, a high number of cultural and natural landmarks, a considerable level of tourism infrastructure, and an openness to the world are the factors which seem to characterize the countries which have succeeded in becoming the global hubs for tourism. On the other hand,another key finding is that factors such as affordability seem to be less important than what is commonly inferred. 
 
-For the detailed data visualizations and findings, please refer to the public link provided in the "visualization link.txt" file.
+To explore the full visualization of this project, you can access the Tableau dashboard by following this [link](https://public.tableau.com/app/profile/rodrigo.gutierrez.garcia/viz/UnderstandingtheMostVisitedCountriesintheWorld/Story1?publish=yes). These visualizations provide insights into the predicted demand, driver requirements, and hot spots across NYC neighborhoods.
+
+Feel free to explore the code, datasets, and visualizations provided in this repository to gain a deeper understanding of the project and its findings. If you have any questions or feedback, please don't hesitate to reach out. 
