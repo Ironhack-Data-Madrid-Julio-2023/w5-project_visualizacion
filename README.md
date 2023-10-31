@@ -1,4 +1,4 @@
-# Top 50 Most Visited Countries Database - Data Visualization Project
+# Understanding the Most Visited Countries in the World
 
 ## Project Overview:
 This project aims to provide a comprehensive database for understanding the top 50 most visited countries in the world. The dataset includes various factors such as affordability, number of UNESCO Heritage Sites, safety, infrastructure, income group, and more. The database serves two purposes: 
